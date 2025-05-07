@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/api/otp", "dest": "/api/otp.js" }
+  ]
+}
